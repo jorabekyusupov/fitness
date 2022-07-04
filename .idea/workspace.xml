@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df343939-eeea-462c-8cd4-90e48bd78c18" name="Changes" comment="About Company qilindi">
+      <change afterPath="$PROJECT_DIR$/admin/Club_cards.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/club_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/php/clubcarDelete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/php/clubcardCreate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/program_create.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/progrms_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ccfe46ca-640b-4840-ba5d-86162c80ee77.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/ccfe46ca-640b-4840-ba5d-86162c80ee77.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services.php" beforeDir="false" afterPath="$PROJECT_DIR$/services.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BEsbNuNGCymjuV04WJPCxAsRVn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df343939-eeea-462c-8cd4-90e48bd78c18" name="Changes" comment="" />
+      <created>1656482674229</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656482674229</updated>
+      <workItem from="1656482679613" duration="14976000" />
+      <workItem from="1656560027875" duration="28405000" />
+      <workItem from="1656596845486" duration="3656000" />
+      <workItem from="1656608655055" duration="2498000" />
+      <workItem from="1656611289498" duration="3405000" />
+      <workItem from="1656614857827" duration="176000" />
+      <workItem from="1656648926886" duration="18276000" />
+      <workItem from="1656677275067" duration="3214000" />
+      <workItem from="1656740597939" duration="18686000" />
+      <workItem from="1656788638155" duration="144000" />
+      <workItem from="1656817457860" duration="1461000" />
+      <workItem from="1656825699795" duration="14716000" />
+    </task>
+    <task id="LOCAL-00001" summary="Admin panel qisman tugadi">
+      <created>1656503313926</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656503313927</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Admin panel qisman tugadi">
+      <created>1656591890276</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656591890276</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fitmax panel checkbox tugadi">
+      <created>1656613861966</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656613861966</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fitmax panel checkbox tugadi">
+      <created>1656615008006</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656615008006</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Edit qoldi :)">
+      <created>1656677071839</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1656677071839</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Edit qoldi :)">
+      <created>1656765814144</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1656765814144</updated>
+    </task>
+    <task id="LOCAL-00007" summary="About Company qilindi">
+      <created>1656841582704</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1656841582704</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Admin panel qisman tugadi" />
+    <MESSAGE value="Fitmax panel checkbox tugadi" />
+    <MESSAGE value="Edit qoldi :)" />
+    <MESSAGE value="About Company qilindi" />
+    <option name="LAST_COMMIT_MESSAGE" value="About Company qilindi" />
+  </component>
+</project>
