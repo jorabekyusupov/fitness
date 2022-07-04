@@ -4,10 +4,10 @@
 class DB {
 
     public $connect;
-    public $host = '127.0.0.1';
-    public $user = 'root';
-    public $pass = '';
-    public $db = 'fitness';
+    public $host = 'n4m3x5ti89xl6czh.cbetxkdyhwsb.us-east-1.rds.amazonaws.com';
+    public $user = 'maj8e644lc25sir4';
+    public $pass = 'qi8yta938yuozyyw';
+    public $db = 'ywbegp6ywjvdgajv';
 
     public function __construct()
 
